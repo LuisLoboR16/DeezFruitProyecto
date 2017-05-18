@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Deez Fruit</string>
+    <string name="JugosNaturales">Jugos Naturales</string>
+    <string name="JugosNoNaturales">Jugos No Naturales</string>
+    <string name="Reportes">Reportes</string>
+    <string name="Banano">Banano</string>
+    <string name="Borojo">Borojo</string>
+    <string name="Carambola">Carambola</string>
+    <string name="Cereza">Cereza</string>
+    <string name="Fresa">Fresa</string>
+    <string name="Guanabana">Guanabana</string>
+    <string name="Guayaba">Guayaba</string>
+    <string name="Mango">Mango</string>
+    <string name="Mora">Mora</string>
+    <string name="Naranja">Naranja</string>
+    <string name="Nispero">Nispero</string>
+    <string name="Papaya">Papaya</string>
+    <string name="Pina">Piña</string>
+    <string name="Remolacha">Remolacha</string>
+    <string name="Tamarindo">Tamarindo</string>
+    <string name="Zanahoria">Zanahoria</string>
+    <string name="Zapote">Zapote</string>
+    <string name="Agregar">Agregar</string>
+    <string name="Limpiar">Limpiar</string>
+    <string name="Nombre">Nombre</string>
+    <string name="Usuario">Usuario</string>
+    <string name="Contraseña">Contraseña</string>
+    <string name="Ingresar">Ingresar</string>
+    <string name="Regresar">Regresar</string>
+    <string name="Login">Login</string>
+    <string-array name="opciones">
+        <item>@string/JugosNaturales</item>
+        <item>@string/JugosNoNaturales</item>
+        <item>@string/Reportes</item>
+    </string-array>
+    <string-array name="opciones2">
+        <item>@string/Banano</item>
+        <item>@string/Borojo</item>
+        <item>@string/Carambola</item>
+        <item>@string/Cereza</item>
+        <item>@string/Fresa</item>
+        <item>@string/Guanabana</item>
+        <item>@string/Guayaba</item>
+        <item>@string/Mango</item>
+        <item>@string/Mora</item>
+        <item>@string/Naranja</item>
+        <item>@string/Nispero</item>
+        <item>@string/Papaya</item>
+        <item>@string/Pina</item>
+        <item>@string/Remolacha</item>
+        <item>@string/Tamarindo</item>
+        <item>@string/Zanahoria</item>
+        <item>@string/Zapote</item>
+    </string-array>
+</resources>
